@@ -1,0 +1,22 @@
+.jumbotron{
+    text-align: center;
+    background-color: #ccffff;
+    font-family: 'Saira Condensed', sans-serif;;  
+}
+.hello{
+    font-family: 'Bungee Inline', cursive;
+}
+.two{
+    background-color: #ccccff;
+    font-family: 'Raleway', sans-serif;
+}
+#section3{
+    background-color: #ff9999;
+    font-size: large;
+}
+#section4{
+    background-color: #99ffcc;
+}
+#emailbutton{
+    margin-bottom: 20px;
+}
